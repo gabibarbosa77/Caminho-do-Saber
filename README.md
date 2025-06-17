@@ -4,6 +4,7 @@ Plataforma estudantil desenvolvida com PHP, HTML, CSS, Python e JavaScript, volt
 
 
 📄 Licença
+
 Este projeto está licenciado sob os termos da GNU Affero General Public License v3.0 (AGPL-3.0) — publicada em 19 de novembro de 2007.
 
 Você pode copiar, modificar e distribuir este software, desde que mantenha esta mesma licença e disponibilize o código-fonte de qualquer modificação ou serviço baseado neste sistema, mesmo que seja utilizado via rede (como em aplicações web).
